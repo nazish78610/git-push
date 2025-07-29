@@ -13,3 +13,4 @@
 
 Created by: **Nazish Shabbir**
 Huawei Cloud Certified Professional
+✅ Tip 9: Use Elastic Load Balancer for better traffic management.
