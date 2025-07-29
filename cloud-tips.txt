@@ -1,0 +1,15 @@
+🌥 Huawei Cloud Beginner Tips 🌥
+
+1. Always create a VPC before launching an ECS instance.
+2. Use security groups to control access instead of disabling firewalls.
+3. Monitor your ECS performance using Cloud Eye.
+4. Backup your important data using EVS snapshots regularly.
+5. Use Auto Scaling for high-traffic applications to maintain performance.
+6. Use tags to organize your cloud resources.
+7. Keep SSH keys secure and never share private keys.
+8. Try deploying a simple web app to understand networking and compute better.
+
+📝 Tip: Practice with Qwiklabs or Huawei KooLab to gain hands-on experience!
+
+Created by: **Nazish Shabbir**
+Huawei Cloud Certified Professional
